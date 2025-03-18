@@ -1,0 +1,158 @@
+ul li{
+    display:inline;
+    margin:0 80px;
+    font-weight: 700;
+    font-size:33px;
+}
+ul li:hover{
+    color:yellow;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    background:black;
+    color:whitesmoke;
+    align-items: center;
+    gap:143px;
+    position: sticky;
+    top:0;
+    height:111px;
+    font-weight:500;
+    opacity: 0.78;
+}
+.header{
+    background-image:url("https://avatars.dzeninfra.ru/get-zen_doc/4453741/pub_60bc879a931ee526e1cda790_60bc87da7f99d3334f353745/scale_1200");
+    height:780px;
+    width:100%;
+    background-size:cover;
+    padding:5px;
+}
+button{
+    height:66px;
+    width:345px;
+    font-weight: 600;
+    background:black;
+    font-size:23px;
+    border:4px solid white;
+    opacity:0.86;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.online{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:4px;
+    gap:34px;
+}
+p{
+    font-size:34px;
+}
+.Us{
+    width:696px;
+}
+html{
+    scroll-behavior:smooth;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button:hover{
+    background:yellow;
+    color:black;
+    border:4px outset black;
+}
+.trands{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:45px;
+}
+.second-trands{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:25px;
+    padding:12px;
+}
+.Cosmatics{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:34px;
+}
+.pictures{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:44px;
+}
+footer{
+    background:rgb(0, 0, 0);
+}
+.company{
+    display: flex;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2Kk3enOE_dEOPRy-x344TR4PFrNwH3FQYw&s");
+    height:320px;
+    background-attachment: fixed;
+    background-size:cover;
+    margin:8px;
+    justify-content: center;
+    align-items: center;
+}
+.adress-info{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    align-items: space-between;
+}
+body{
+    background-color: black;
+}
+.man-haircut{
+    padding:2px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    height:34px;
+    width:567px;
+    margin:7px;
+    font-size:23px;
+    border-radius: 8px;
+    background:black;
+    color:white;
+}
+.submit{
+    color:black;
+    background:yellow;
+    font-weight: 900;
+}
+.ellipse{
+    border-radius: 99px;
+    height:167px;
+    width:167px;
+    border:7px solid white;
+    color:white;
+    font-size:23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
